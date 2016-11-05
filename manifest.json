@@ -2,9 +2,9 @@
   "manifest_version": 2,
   "name": "rest",
   "description": "This extension reminds you to take a rest after using computer for a long time",
-  "version": "0.1",
+  "version": "1.0.0",
   "browser_action": {
-    "default_icon": "resource/icon_19.png",
+    "default_icon": "img/icon.png",
     "default_popup": "popup.html"
   },
   "permissions": [

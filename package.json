@@ -1,0 +1,19 @@
+{
+  "name": "rest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://ZeekWang@github.com/ZeekWang/rest.git"
+  },
+  "author": "zeek",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/ZeekWang/rest/issues"
+  },
+  "homepage": "https://github.com/ZeekWang/rest#readme",
+  "devDependencies": {
+    "bower": "^1.7.9"
+  }
+}
